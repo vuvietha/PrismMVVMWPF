@@ -7,10 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-
         <TextBlock HorizontalAlignment="Left" Margin="289,124,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
-        <TextBlock HorizontalAlignment="Left" Margin="381,197,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
-       <ComboBox HorizontalAlignment="Left" Margin="651,245,0,0" VerticalAlignment="Top" Width="120"/>
 
     </Grid>
 </Window>
